@@ -74,6 +74,9 @@ body{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  img{
+    height: 200px;
+  }
 }
 .output__item{
   width: 250px;

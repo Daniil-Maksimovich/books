@@ -108,6 +108,10 @@ body {
       flex-wrap: wrap;
 }
 
+.output__content img {
+  height: 200px;
+}
+
 .output__item {
   width: 250px;
   padding: 20px;
